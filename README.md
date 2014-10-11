@@ -4,17 +4,17 @@ This is my repository for the "Exploratory Data Analysis, Project 1".
 As required, the repository contains four 'R script' files:
 plot1.R,
 plot2.R,
-plot3.R,
+plot3.R and
 plot4.R
 
 and four 'output png' files:
 
 plot1.png,
 plot2.png,
-plot3.png,
+plot3.png and
 plot4.png
 
-To run the abouve R scripts, it is necessary to downloand the file:
+To run the above R scripts, it is necessary to downloand the file:
 
 from: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip;
 
@@ -22,8 +22,7 @@ to your R Studio working dirctory and unzip it into 'exdata_data_household_power
 
 You can run any script as they all read the input data file and generate the output graph and save it into a 'png' file.
 
-* Noticed legends were getting chopped in plot3 and plot4. Overcame the issue by opening and plotting to png device directly 
-* instead of dev.copy 
+* Noticed legends were getting chopped in plot3 and plot4. Overcame the issue by opening and plotting to png device directly instead of dev.copy 
 
 
 This assignment uses data from
