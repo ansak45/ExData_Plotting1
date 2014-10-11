@@ -1,4 +1,27 @@
 ## Introduction
+This is my repository for the "Exploratory Data Analysis, Project 1". 
+
+As required, the repository contains four 'R script' files:
+plot1.R
+plot2.R
+plot3.R
+plot4.R
+
+and four 'output png' files:
+
+plot1.png
+plot2.png
+plot3.png
+plot4.png
+
+To run the abouve R scripts, it is necessary to downloand the file:
+
+from: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip;
+
+to your R Studio working dirctory and unzip it into 'exdata_data_household_power_consumption' sub directory
+
+You can run any script as theay all read the input data file and generate the output graph and save it into a 'png' file.
+
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
@@ -31,34 +54,4 @@ web site</a>:
 <li><b>Sub_metering_2</b>: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light. </li>
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
-
-This is my repository for the "Exploratory Data Analysis, Project 1". 
-
-As required, the repository contains four 'R script' files:
-plot1.R
-plot2.R
-plot3.R
-plot4.r
-
-and four 'output png' files:
-plot1.png
-plot2.png
-plot3.png
-plot4.png
-
-To run the abouve R scripts, it is necessary to downloand the file:
-
-•Download the data from here: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip;
-
-to your R Studio working dirctory and unzip it into 'exdata_data_household_power_consumption' sub directory
-
-You can run any script as theay all read the input data file and generate the output graph and save it into a 'png' file.
-
-
-
-
-
-
-
-
 
