@@ -26,13 +26,5 @@ with(data, {
 legend("topright", col=c("black", "red", "blue"), lty=1, lwd=2,  
        legend=c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3")) 
 
-<<<<<<< HEAD
 # close device png
 dev.off() 
-=======
-
-## Saving to file 
-dev.copy(png, file="plot3.png", height=480, width=480) 
-dev.off() 
-#
->>>>>>> 08f32148b7c4d95d7cca765508cd7ce0529fea7c
