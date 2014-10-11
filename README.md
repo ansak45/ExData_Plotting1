@@ -20,7 +20,7 @@ from: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_cons
 
 to your R Studio working dirctory and unzip it into 'exdata_data_household_power_consumption' sub directory
 
-You can run any script as theay all read the input data file and generate the output graph and save it into a 'png' file.
+You can run any script as they all read the input data file and generate the output graph and save it into a 'png' file.
 
 
 This assignment uses data from
